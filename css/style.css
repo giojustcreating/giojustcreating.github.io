@@ -189,7 +189,7 @@ p.footer-class a:hover{
 }
 .content-grid{
 	float:left;
-	width:25%;
+	width:50%;
 }
 /*--------------------------------------*/
 .b-link-stripe{
@@ -2078,4 +2078,7 @@ h4.author {
 .gio-logo {
     color:dodgerblue;
     text-align: center;
+}
+.newshit {
+    display: inline;
 }
